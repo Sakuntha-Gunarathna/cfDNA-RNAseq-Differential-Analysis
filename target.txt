@@ -1,0 +1,7 @@
+label	group
+Healthy_1	Healthy
+Healthy_2	Healthy
+Healthy_3	Healthy
+Cancer_1	Cancer
+Cancer_2	Cancer
+Cancer_3	Cancer
